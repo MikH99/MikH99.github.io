@@ -53,6 +53,13 @@ var mplayer_song = [
 			"src": music163("423015999"),
 			"lrc": "[00:00.00]歌词加载中...",
 			"slrc": "audio/lrc/eyii.lrc"
+		},
+		{
+			"name": "Memory",
+			"singer": "Martin Carlos",
+			"img": "http://p1.music.126.net/J-ciggWVRzfg1zch7sBJNQ==/18198016951733246.jpg?param=177y177",
+			"src": music163("1910418488"),
+			"lrc": ""
 		}
 	],
 	[

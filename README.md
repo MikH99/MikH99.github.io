@@ -1,3 +1,3 @@
 # New
 Hello World
-http://about.whiteg.cn
+https://jl.mlkh.xyz/
