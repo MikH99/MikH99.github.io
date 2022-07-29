@@ -115,3 +115,4 @@
 工作中发现了Bug及时与开发沟通，使用云效管理Bug；
 使用Navicat客户端连接Mysql数据库进行数据查询；
 
+![MAWENXIAO 背景](images/bj.jpeg)
