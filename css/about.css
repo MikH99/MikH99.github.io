@@ -370,7 +370,7 @@ body {
 }
 
 #item_2 .cycle_icon_2 {
-    background: url('../images/icon/bilibili.png');
+    background: url('../images/icon/twitter.png');
     border-radius: 5px;
     display: block;
     width: 40px;
@@ -388,7 +388,7 @@ body {
 }
 
 #item_3 .cycle_icon_3 {
-    background: url('../images/icon/blog.png');
+    background: url('../images/icon/telegram.png');
     display: block;
     width: 40px;
     height: 40px;
