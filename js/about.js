@@ -480,5 +480,4 @@ function timer() {
 //});
 
 
-
 about_main()

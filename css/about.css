@@ -752,6 +752,14 @@ body {
 .uname1_items {
     background: rgba(189, 64, 64, 0.8);
 }
+.beian {
+    background: #FEFEFE;
+    text-align:center;
+    padding: 0px;
+    line-height: 16px;
+    padding-bottom: 1px;
+
+}
 
 .uname1_items a {
     background: rgba(189, 64, 64, 0.8) url(../images/icon/blog.png);
